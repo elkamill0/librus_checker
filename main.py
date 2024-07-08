@@ -203,4 +203,4 @@ async def librus():
             user = bot.get_user('Moje id')
             await user.send(str(librus_user) + " Error!!!")
 
-bot.run('*Nie dla psa kurwa*')
+bot.run('*secret*')
